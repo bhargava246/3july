@@ -1,3 +1,3 @@
-this a new file
+this a new file with new record
 this is second line
 
